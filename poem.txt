@@ -8,5 +8,6 @@ purple
 red 
 blue 
 yellow
-
+green 
+black
 These are the wonderful colours of my rainbow.
