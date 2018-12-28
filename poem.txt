@@ -10,4 +10,5 @@ blue
 yellow
 green 
 black
+pink
 These are the wonderful colours of my rainbow.
